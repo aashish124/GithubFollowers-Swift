@@ -1,4 +1,4 @@
-**GHFollowers** : A Take Home Project from [Sean Allen's course](https://www.youtube.com/watch?v=JzngncpZLuw&t=49910s). An app that fetches a list of followers from a GitHub username via a network call, search user's follower and allows the user to set and persist a favorite GitHub user.
+**GHFollowers** : A Take Home Project from [Sean Allen's course](https://youtu.be/JzngncpZLuw?si=hWyDpN_Sc-PkzzGL). An app that fetches a list of followers from a GitHub username via a network call, search user's follower and allows the user to set and persist a favorite GitHub user.
 
 
 # Concepts Included
